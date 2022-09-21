@@ -4,7 +4,7 @@ don't read any of my code, symptoms include:
   - Headaches
   - Cardiac arrest 
   - Possible fainting
-  - Death \
+  - Death
 ### more
 i like coding in cpp and c  
 i don't use github often  
